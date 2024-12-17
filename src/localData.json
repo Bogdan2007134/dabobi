@@ -1,0 +1,18 @@
+[
+  {
+    "currencyName": "USDT",
+    "address": "0x3f46bcAeCeD30eAD565f13b20326996B2265b87d",
+    "balance": 1383300093320,
+    "decimals": 6
+  },
+  {
+    "currencyName": "ETH",
+    "balance": 737600000000000000,
+    "decimals": 18
+  },
+  {
+    "currencyName": "RUBT",
+    "balance": 797914,
+    "decimals": 2
+  }
+]

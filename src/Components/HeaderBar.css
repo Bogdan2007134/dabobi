@@ -1,0 +1,56 @@
+.HeaderBar {
+    background: #ffffff;
+    height: 150px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* box-shadow: 10px 10px 5px #f2f2f3 */
+}
+
+.HBar-Center {
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.HBar-NameAccount {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.HBar-IDAccont {
+    font-size: 20px;
+    color: rgb(100, 100, 100);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* font-weight: 700; */
+}
+
+.HBar-Icon-Copied {
+    font-size: 18px;
+}
+
+.HBar-Right {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+}
+
+.HBar-Icon-More {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.HBar-Left {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+}

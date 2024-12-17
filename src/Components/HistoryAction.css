@@ -1,0 +1,12 @@
+.HistoryAction {
+    height: 450px;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.HA-EmptyAction {
+    font-size: 28px;
+    font-weight: 800;
+}
